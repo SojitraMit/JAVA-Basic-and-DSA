@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2D-Array/2D-Array.iml" filepath="$PROJECT_DIR$/2D-Array/2D-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array list/Array list.iml" filepath="$PROJECT_DIR$/Array list/Array list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array2/Array2.iml" filepath="$PROJECT_DIR$/Array2/Array2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/Assignment/Assignment.iml" filepath="$PROJECT_DIR$/Tree/Assignment/Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTree/Assignment1/Assignment1.iml" filepath="$PROJECT_DIR$/BinaryTree/Assignment1/Assignment1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashmaps/Assignment2/Assignment2.iml" filepath="$PROJECT_DIR$/Hashmaps/Assignment2/Assignment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Priority Queue/Assignment3/Assignment3.iml" filepath="$PROJECT_DIR$/Priority Queue/Assignment3/Assignment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trie/Assignment4/Assignment4.iml" filepath="$PROJECT_DIR$/Trie/Assignment4/Assignment4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP/Assignment5/Assignment5.iml" filepath="$PROJECT_DIR$/DP/Assignment5/Assignment5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/Basic.iml" filepath="$PROJECT_DIR$/Basic/Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary search tree/Binary search tree.iml" filepath="$PROJECT_DIR$/Binary search tree/Binary search tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary search tree/BinarySearchTree/BinarySearchTree.iml" filepath="$PROJECT_DIR$/Binary search tree/BinarySearchTree/BinarySearchTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP 2/DP 2.iml" filepath="$PROJECT_DIR$/DP 2/DP 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collage lab manual/Experiment 1/Experiment 1.iml" filepath="$PROJECT_DIR$/collage lab manual/Experiment 1/Experiment 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collage lab manual/Experiment 2/Experiment 2.iml" filepath="$PROJECT_DIR$/collage lab manual/Experiment 2/Experiment 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collage lab manual/Experiment 3/Experiment 3.iml" filepath="$PROJECT_DIR$/collage lab manual/Experiment 3/Experiment 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graphs/Graphs.iml" filepath="$PROJECT_DIR$/Graphs/Graphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashmaps/Hashmap Impliment/Hashmap Impliment.iml" filepath="$PROJECT_DIR$/Hashmaps/Hashmap Impliment/Hashmap Impliment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashmaps/Hashmaps.iml" filepath="$PROJECT_DIR$/Hashmaps/Hashmaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trie/Impliment/Impliment.iml" filepath="$PROJECT_DIR$/Trie/Impliment/Impliment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 1.iml" filepath="$PROJECT_DIR$/Lecture 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Link list/Link list.iml" filepath="$PROJECT_DIR$/Link list/Link list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Link list 2/Link list 2.iml" filepath="$PROJECT_DIR$/Link list 2/Link list 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Link list 2 Assignment/Link list 2 Assignment.iml" filepath="$PROJECT_DIR$/Link list 2 Assignment/Link list 2 Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/Loop.iml" filepath="$PROJECT_DIR$/Loop/Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Priority Queue/Max Priority Queue/Max Priority Queue.iml" filepath="$PROJECT_DIR$/Priority Queue/Max Priority Queue/Max Priority Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Priority Queue/Min Priority Queue/Min Priority Queue.iml" filepath="$PROJECT_DIR$/Priority Queue/Min Priority Queue/Min Priority Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opretors/Opretors.iml" filepath="$PROJECT_DIR$/Opretors/Opretors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern2/Pattern2.iml" filepath="$PROJECT_DIR$/Pattern2/Pattern2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Priority Queue/Priority Queue.iml" filepath="$PROJECT_DIR$/Priority Queue/Priority Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graphs/Problems/Problems.iml" filepath="$PROJECT_DIR$/Graphs/Problems/Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/QueueUsingArray/QueueUsingArray.iml" filepath="$PROJECT_DIR$/Queue/QueueUsingArray/QueueUsingArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/QueueUsingLL/QueueUsingLL.iml" filepath="$PROJECT_DIR$/Queue/QueueUsingLL/QueueUsingLL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion Assignment/Recursion Assignment.iml" filepath="$PROJECT_DIR$/Recursion Assignment/Recursion Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion2/Recursion2.iml" filepath="$PROJECT_DIR$/Recursion2/Recursion2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Search/Search.iml" filepath="$PROJECT_DIR$/Search/Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/TakeInputLevelWise/TakeInputLevelWise.iml" filepath="$PROJECT_DIR$/Tree/TakeInputLevelWise/TakeInputLevelWise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Time Complexity/Time Complexity.iml" filepath="$PROJECT_DIR$/Time Complexity/Time Complexity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trie/Trie.iml" filepath="$PROJECT_DIR$/Trie/Trie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abc/abc.iml" filepath="$PROJECT_DIR$/abc/abc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Stack/basic/basic.iml" filepath="$PROJECT_DIR$/Sorting/Stack/basic/basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collage lab manual/collage lab manual.iml" filepath="$PROJECT_DIR$/collage lab manual/collage lab manual.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/he/he.iml" filepath="$PROJECT_DIR$/demo/he/he.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opps/oops3/oops3.iml" filepath="$PROJECT_DIR$/opps/oops3/oops3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opps/opps.iml" filepath="$PROJECT_DIR$/opps/opps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qustions/qustions.iml" filepath="$PROJECT_DIR$/qustions/qustions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack/stack.iml" filepath="$PROJECT_DIR$/stack/stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack/stackUsingArray/stackUsingArray.iml" filepath="$PROJECT_DIR$/stack/stackUsingArray/stackUsingArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack/stackUsingLL/stackUsingLL.iml" filepath="$PROJECT_DIR$/stack/stackUsingLL/stackUsingLL.iml" />
+    </modules>
+  </component>
+</project>
